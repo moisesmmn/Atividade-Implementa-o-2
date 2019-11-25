@@ -40,7 +40,7 @@ public class Articulacao {
 		}
 		else
 		{
-			System.out.println("Esse grafo não possui Articulação");
+			System.out.println("Esse grafo nao possui Articulacao");
 		}
 	 }
 	 

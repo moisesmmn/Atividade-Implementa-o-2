@@ -6,6 +6,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - TesteArticulacao",
+            "request": "launch",
+            "mainClass": "Executaveis.TesteArticulacao"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - teste",
             "request": "launch",
             "mainClass": "teste"
